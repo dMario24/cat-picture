@@ -6,7 +6,9 @@ I will show you a picture of a cat.
 
 1. pip install .
 
-2. (cat-picture-3.7)  dokyung@DESKTOP-1HKCSVM  ~/code/cat-picture   0.2.0/test  python
+2.
+```python
+(cat-picture-3.7)  dokyung@DESKTOP-1HKCSVM  ~/code/cat-picture   0.2.0/test  python
 Python 3.7.16 (default, May 24 2023, 10:34:09)
 [GCC 11.3.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
@@ -52,3 +54,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 ...............::::^^^:^^::::::::^^^^::::^^~!!7!!~~~~~~~~~~~!!!7!77?JJYJYJJJYJ??JYY555555?^.........
 ..............::^^^^^^^^^^^^^^^::::^^^^^^~~~~~!7!~!!!~~~~!!!!!!7???????JYYY5YJ?YYYY5555555J^........
 ..............::^^^^^^^^^~^^^^^^^^::^^^^^^^~!~~!!~~~!!~~!!!77777?77???JYY5P5JJY55555P55555Y?^::.....
+```

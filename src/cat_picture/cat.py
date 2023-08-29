@@ -1,18 +1,5 @@
-# cat-picture
-
-I will show you a picture of a cat.
-
-![image](https://github.com/charmdovi/cat-picture/assets/129126687/566ad768-f308-4253-bdb5-2b8e3597c45e)
-
-1. pip install .
-
-2. (cat-picture-3.7)  dokyung@DESKTOP-1HKCSVM  ~/code/cat-picture   0.2.0/test  python
-Python 3.7.16 (default, May 24 2023, 10:34:09)
-[GCC 11.3.0] on linux
-Type "help", "copyright", "credits" or "license" for more information.
->>> from cat_picture.cat import pic
->>> pic()
-
+def pic():
+    art = """
 ................                       .............................................................
 ................                       .............................................................
 .............                                    ...................................................
@@ -51,4 +38,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 ...............::^^:^^::::::::::^^^:::^^^~~!!!~~~^~~^^^~~~!!77777??JJJYYYYYJYYYYJJYYYYYY?^..........
 ...............::::^^^:^^::::::::^^^^::::^^~!!7!!~~~~~~~~~~~!!!7!77?JJYJYJJJYJ??JYY555555?^.........
 ..............::^^^^^^^^^^^^^^^::::^^^^^^~~~~~!7!~!!!~~~~!!!!!!7???????JYYY5YJ?YYYY5555555J^........
-..............::^^^^^^^^^~^^^^^^^^::^^^^^^^~!~~!!~~~!!~~!!!77777?77???JYY5P5JJY55555P55555Y?^::.....
+..............::^^^^^^^^^~^^^^^^^^::^^^^^^^~!~~!!~~~!!~~!!!77777?77???JYY5P5JJY55555P55555Y?^::.....
+    """
+    print(art)
